@@ -1,0 +1,8 @@
+{
+    "services": {
+        "varifyServer":{
+            "apiUrl": "https://example.com",
+            "port": 8080
+        }
+    }
+}
